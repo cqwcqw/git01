@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+pom.xml
+.idea/.gitignore
+.idea/artifacts/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+out/
+src/main/resources/
+target/
